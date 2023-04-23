@@ -58,8 +58,9 @@ assign sum = (a^b^c);
 assign carry = ((a&b)|(a^b)&c);
 endmodule
 ```
-*/
-Logic symbol & Truthtable
+## output
+
+## Logic symbol & Truthtable
 
 RTL realization
 
